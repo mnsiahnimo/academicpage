@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Michael Nsiah-Nimo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Statistician with deep expertise in advanced statistical modeling, machine learning, and Cloud DevOps/MLOps engineering, with over 7 years of experience building, automating, and deploying data-driven systems in AWS, Azure, and hybrid cloud environments.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My academic foundation lies in applied statistical research, where I developed predictive models and inference pipelines for health sciences, and experimental science. I specialize in generalized linear models, survival analysis, tree-based ensembles, and dimensionality reduction for high-dimensional biological and behavioral data.
+
+Complementing this, I’ve architected and maintained CI/CD pipelines using GitHub Actions and Jenkins, deployed containerized ML models with Docker and ECS, and authored infrastructure-as-code with Terraform and CloudFormation to support secure, scalable, and reproducible production environments.
+
+I bring a unique edge by bridging rigorous statistical science with hands-on cloud engineering — enabling models and algorithms developed in research to scale, deploy, and generate impact in real-world, production-grade systems
 
 A data-driven personal website
 ======
