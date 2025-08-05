@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Statistician with deep expertise in advanced statistical modeling, machine learning, and Cloud DevOps/MLOps engineering, with over 7 years of experience building, automating, and deploying data-driven systems in AWS, Azure, and hybrid cloud environments.
+Statistician (Data Sciences, Data Analytics) and a DevOps Enginner with deep expertise in advanced statistical modeling, machine learning, and Cloud DevOps/MLOps engineering, with over 7 years of experience building, automating, and deploying data-driven systems in AWS, Azure, and hybrid cloud environments.
 
 My academic foundation lies in applied statistical research, where I developed predictive models and inference pipelines for health sciences, and experimental science. I specialize in generalized linear models, survival analysis, tree-based ensembles, and dimensionality reduction for high-dimensional biological and behavioral data.
 
