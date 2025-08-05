@@ -18,13 +18,14 @@ I bring a unique edge by bridging rigorous statistical science with hands-on clo
 Areas of Interests
 ======
 1. High-dimensional data analysis (genomics, behavioral data, clinical outcomes)
-2. Dimensionality reduction (PCA, t-SNE) for large biological datasets
-3. Predictive modeling (regression, classification, survival analysis)
-4. Generalized Linear Models (GLMs) & mixed-effects models
-5. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
-6. Statistical computing
+2. DevOps, MlOps and Cloud Engineering
+3. Dimensionality reduction (PCA, t-SNE) for large biological datasets
+4. Predictive modeling (regression, classification, survival analysis)
+5. Generalized Linear Models (GLMs) & mixed-effects models
+6. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
+7. Statistical computing
 
-DevOps & Cloud Engineering 
+DevOps & Cloud Engineering Tools
 ======
 1. Cloud Platforms: AWS (ECS, EC2, S3, RDS), Azure
 2. CI/CD: GitHub Actions, Jenkins, Azure DevOps Pipelines
