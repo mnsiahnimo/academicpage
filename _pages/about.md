@@ -15,15 +15,6 @@ Complementing this, I’ve architected and maintained CI/CD pipelines using GitH
 
 I bring a unique edge by bridging rigorous statistical science with hands-on cloud engineering — enabling models and algorithms developed in research to scale, deploy, and generate impact in real-world, production-grade systems
 
-Research & Statistical Interests
-======
-1. High-dimensional data analysis (genomics, behavioral data, clinical outcomes)
-2. Dimensionality reduction (PCA, t-SNE) for large biological datasets
-3. Predictive modeling (regression, classification, survival analysis)
-4. Generalized Linear Models (GLMs) & mixed-effects models
-5. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
-6. Statistical computing
-
 Areas of Interests
 ======
 1. High-dimensional data analysis (genomics, behavioral data, clinical outcomes)
@@ -32,6 +23,15 @@ Areas of Interests
 4. Generalized Linear Models (GLMs) & mixed-effects models
 5. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
 6. Statistical computing
+
+DevOps & Cloud Engineering 
+======
+1. Cloud Platforms: AWS (ECS, EC2, S3, RDS), Azure
+2. CI/CD: GitHub Actions, Jenkins, Azure DevOps Pipelines
+3. Containerization: Docker, Amazon ECS
+4. Infrastructure as Code: Terraform, AWS CloudFormation
+5. Web/App Deployment: Gunicorn, Nginx, Flask
+6. Version Control: Git, GitHub
 
 Site-wide configuration
 ------
