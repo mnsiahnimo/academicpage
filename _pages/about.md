@@ -23,7 +23,8 @@ Areas of Interests
 4. Predictive modeling (regression, classification, survival analysis)
 5. Generalized Linear Models (GLMs) & mixed-effects models
 6. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
-7. Statistical computing
+7. Deep Learning, NLP, LLM, GenAI
+8. Statistical computing
 
 DevOps & Cloud Engineering Tools
 ======
