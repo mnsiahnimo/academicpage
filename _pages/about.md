@@ -17,7 +17,7 @@ I bring a unique edge by bridging rigorous statistical science with hands-on clo
 
 Areas of Interests
 ======
-1. High-dimensional data analysis (genomics, behavioral data, clinical outcomes)
+1. High-dimensional data analysis (genomics)
 2. DevOps, MlOps and Cloud Engineering
 3. Dimensionality reduction (PCA, t-SNE) for large biological datasets
 4. Predictive modeling (regression, classification, survival analysis)
