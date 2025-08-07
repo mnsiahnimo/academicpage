@@ -14,7 +14,7 @@ My academic foundation lies in applied statistical research, where I developed p
 Complementing this, I’ve architected and maintained CI/CD pipelines using GitHub Actions and Jenkins, deployed containerized ML models with Docker and ECS, and authored infrastructure-as-code with Terraform and CloudFormation to support secure, scalable, and reproducible production environments.
 
 I bring a unique edge by bridging rigorous statistical science with hands-on cloud engineering — enabling models and algorithms developed in research to scale, deploy, and generate impact in real-world, production-grade systems
-------
+
 Areas of Interests
 ======
 1. High-dimensional data analysis (genomics)
@@ -25,7 +25,7 @@ Areas of Interests
 6. Tree-based ensemble methods (Random Forests, Gradient Boosting, XGBoost)
 7. Deep Learning, NLP, LLM, GenAI
 8. Statistical computing
-------
+
 DevOps & Cloud Engineering Tools
 ======
 1. Cloud Platforms: AWS (ECS, EC2, S3, RDS), Azure
